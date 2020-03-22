@@ -178,7 +178,7 @@ class App extends Component {
         <Modal show={this.state.showLinkInfo} onHide={this.handleClose}>
 
           <Modal.Header closeButton>
-            <Modal.Title>Modal heading</Modal.Title>
+            <Modal.Title>Connection Details</Modal.Title>
           </Modal.Header>
           <Modal.Body>
 
