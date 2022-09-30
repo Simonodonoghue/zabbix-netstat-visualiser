@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "papaparse": "^5.1.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0-beta.17",
